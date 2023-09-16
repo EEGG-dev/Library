@@ -30,7 +30,7 @@ while (true)
             break;
         case "5":
             Console.WriteLine("¡Hasta Luego!");
-            break;
+            return;
         default:
             Console.WriteLine("Opcion invalida. Intente de nuevo.");
             break;
