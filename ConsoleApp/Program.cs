@@ -34,7 +34,6 @@ while (true)
         default:
             Console.WriteLine("Opcion invalida. Intente de nuevo.");
             break;
-
     }
     Console.WriteLine();
 }
