@@ -56,6 +56,6 @@ public static class LogicaLibro
         string id = Console.ReadLine();
 
         repositorioLibro.Eliminar(id);
-        Console.WriteLine("Empleado eliminado exitosamente...");
+        Console.WriteLine("Libro eliminado exitosamente...");
     }
 }
